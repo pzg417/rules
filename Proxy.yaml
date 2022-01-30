@@ -3,6 +3,7 @@ payload:
   # pzg417
   - DOMAIN-KEYWORD,rebrickable
   - DOMAIN-KEYWORD,opensubtitles
+  - DOMAIN-KEYWORD,jable
 
   # > Line
   - DOMAIN-SUFFIX,lin.ee
