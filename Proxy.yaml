@@ -1,4 +1,9 @@
 payload:  
+
+  #pzg417
+  - DOMAIN-KEYWORD,rebrickable
+  - DOMAIN-KEYWORD,opensubtitles
+
   # > Line
   - DOMAIN-SUFFIX,lin.ee
   - DOMAIN-SUFFIX,line.me
@@ -609,10 +614,6 @@ payload:
   - DOMAIN-SUFFIX,zaobao.com.sg
   - DOMAIN-SUFFIX,zeutch.com
   - DOMAIN-SUFFIX,zynamics.com
-  
-  #pzg417
-  - DOMAIN-KEYWORD,rebrickable
-  - DOMAIN-KEYWORD,opensubtitles
 
   # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
   # - USER-AGENT,WhatsApp*
