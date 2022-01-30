@@ -644,8 +644,8 @@ payload:
   - DOMAIN-SUFFIX,dartlang.org
 #  - DOMAIN-SUFFIX,fb.com
 #  - DOMAIN-SUFFIX,fb.me
-  - DOMAIN-SUFFIX,fbcdn.net
-  - DOMAIN-SUFFIX,fbsbx.com
+#  - DOMAIN-SUFFIX,fbcdn.net
+#  - DOMAIN-SUFFIX,fbsbx.com
   - DOMAIN-SUFFIX,gcr.io
   - DOMAIN-SUFFIX,gmail.com
   - DOMAIN-SUFFIX,gosetsuden.jp
