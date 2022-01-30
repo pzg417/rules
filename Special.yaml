@@ -1,5 +1,8 @@
 payload:
 
+  # pzg417
+  - DOMAIN-KEYWORD,brick4
+
   # > Apple CDN
   - PROCESS-NAME,storedownloadd
   # - USER-AGENT,com.apple.appstored*
@@ -139,6 +142,3 @@ payload:
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-SUFFIX,smtp
   # - URL-REGEX,(Subject|HELO|SMTP)
-
-  # - pzg417
-  - DOMAIN-KEYWORD,brick4
