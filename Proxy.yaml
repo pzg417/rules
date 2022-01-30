@@ -609,22 +609,24 @@ payload:
   - DOMAIN-SUFFIX,zaobao.com.sg
   - DOMAIN-SUFFIX,zeutch.com
   - DOMAIN-SUFFIX,zynamics.com
+  
+  #pzg417
+  - DOMAIN-KEYWORD,rebrickable
+  - DOMAIN-KEYWORD,opensubtitles
 
   # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
   # - USER-AGENT,WhatsApp*
-
+  
   - DOMAIN-KEYWORD,appledaily
   - DOMAIN-KEYWORD,beetalk
   - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,dropbox
-  - DOMAIN-KEYWORD,facebook
+ # - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,instagram
   - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,whatsapp
   - DOMAIN-KEYWORD,google
-  - DOMAIN-KEYWORD,rebrickable
-  - DOMAIN-KEYWORD,opensubtitles
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,abc.xyz
@@ -638,8 +640,8 @@ payload:
   - DOMAIN-SUFFIX,crittercism.com
   - DOMAIN-SUFFIX,culturalspot.org
   - DOMAIN-SUFFIX,dartlang.org
-  - DOMAIN-SUFFIX,fb.com
-  - DOMAIN-SUFFIX,fb.me
+#  - DOMAIN-SUFFIX,fb.com
+#  - DOMAIN-SUFFIX,fb.me
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,fbsbx.com
   - DOMAIN-SUFFIX,gcr.io
